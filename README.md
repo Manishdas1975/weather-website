@@ -5,4 +5,4 @@ It uses https://openweathermap.org/api API for weather data.
 you can check the website on https://weather-magic.surge.sh/.
 
 
-<img src="/img/weather.PNG">
+<img src="/images/weather.PNG">
