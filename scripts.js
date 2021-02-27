@@ -7,7 +7,7 @@
 
 const api = {
     key: "696c6f0297d9212246508c226eb151b8",
-    url:"http://api.openweathermap.org/data/2.5/"
+    url:"https://api.openweathermap.org/data/2.5/"
 }
 
 // adding event listener to search box for reading the keypress and detecting name until enter is pressed
