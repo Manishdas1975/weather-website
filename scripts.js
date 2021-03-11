@@ -6,7 +6,7 @@
 
 
 const api = {
-    key: "696c6f0297d9212246508c226eb151b8",
+    key: "433c6f0345dzzzzx55544c226eb134e1",
     url:"https://api.openweathermap.org/data/2.5/"
 }
 
